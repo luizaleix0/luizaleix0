@@ -59,3 +59,25 @@ sociedade nos tempos atuais está cada vez mais digital e com extrema ascensão 
 esses dados ficam cada vez mais vulneráveis sem uma proteção adequada para seus usuários. 
 
 
+Explique as diferenças entre 3 linguagens de programação:
+
+Python:  Python é uma linguagem de programação de alto nível e multiparadigma. Ele suporta programação orientada a objetos, imperativa e funcional.
+ Python é conhecido por sua sintaxe limpa e legível, o que facilita a leitura e a escrita de código. 
+Isso é particularmente útil para iniciantes. é usado em uma variedade de aplicações,
+desde desenvolvimento web e automação até inteligência artificial e ciência de dados.
+ Python possui gerenciamento automático de memória, facilitando a vida do programador, mas pode resultar em algum overhead de desempenho.
+
+Java: Java é uma linguagem de programação orientada a objetos e projetada para ser independente de plataforma.
+Isso significa que o código Java pode ser executado em qualquer dispositivo que tenha uma máquina virtual Java (JVM) instalada.
+ A sintaxe do Java é semelhante à linguagem C++, tornando-a familiar para muitos desenvolvedores.
+No entanto, Java é mais restrito em termos de manipulação
+de ponteiros e oferece um ambiente mais controlado.
+
+C++: C++ é uma linguagem de programação de propósito geral que suporta programação orientada a objetos e procedimental. 
+Ele é uma extensão da linguagem C.C++ é conhecido por seu desempenho eficiente, permitindo um controle mais direto sobre os recursos do sistema.
+É frequentemente escolhido para desenvolvimento de sistemas e aplicativos de alto desempenho.
+
+
+
+
+
