@@ -29,6 +29,9 @@ serviços ou resultados desejados.O gerenciamento de processos de negócio (BPM 
 uma disciplina que visa otimizar, monitorar e melhorar continuamente esses processos.
 
 
+
+
+
 Um algoritmo é uma sequência de raciocínios, instruções ou operações para alcançar um objetivo,
 sendo necessário que os passos sejam finitos e operados sistematicamente. Um algoritmo, portanto, conta com a entrada (input) e 
 saída (output) de informações mediadas pelas instruções.
@@ -59,6 +62,8 @@ sociedade nos tempos atuais está cada vez mais digital e com extrema ascensão 
 esses dados ficam cada vez mais vulneráveis sem uma proteção adequada para seus usuários. 
 
 
+
+
 Explique as diferenças entre 3 linguagens de programação:
 
 Python:  Python é uma linguagem de programação de alto nível e multiparadigma. Ele suporta programação orientada a objetos, imperativa e funcional.
@@ -76,6 +81,43 @@ de ponteiros e oferece um ambiente mais controlado.
 C++: C++ é uma linguagem de programação de propósito geral que suporta programação orientada a objetos e procedimental. 
 Ele é uma extensão da linguagem C.C++ é conhecido por seu desempenho eficiente, permitindo um controle mais direto sobre os recursos do sistema.
 É frequentemente escolhido para desenvolvimento de sistemas e aplicativos de alto desempenho.
+
+
+
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
+código em java
+
+
+
+# Soma de dois números
+def soma(a, b):
+    return a + b
+
+código em phyton
+
+
+
+#include <iostream>
+
+int soma(int a, int b) {
+    return a + b;
+
+cóigo em C++
+
+comentários: códigos e linguagens de programação são a espinha dorsal da computação,
+fornecendo as ferramentas necessárias para traduzir conceitos em soluções funcionais e inovadoras. 
+A escolha da linguagem certa e a adoção de boas práticas de programação são cruciais para o sucesso de projetos de software.
+
+
+
+
+
+
 
 
 
