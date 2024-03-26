@@ -124,6 +124,22 @@ limite = 100
         if c % 2 == 0:
             print(c)
 
+...............................................................................................................................
+
+
+trabalho semana 6
+
+1. O que é um ambiente de desenvolvimento integrado (IDE)
+
+Um ambiente de desenvolvimento integrado (IDE) é uma aplicação
+de software que ajuda os programadores 
+a desenvolver código de software de maneira eficiente. 
+Ele aumenta a produtividade do desenvolvedor,
+combinando recursos como edição, compilação, 
+teste e empacotamento de software em uma aplicação fácil de usar.
+
+
+
 
 
 
