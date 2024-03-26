@@ -28,7 +28,7 @@ Esses processos são projetados para criar valor para o cliente, seja na forma d
 serviços ou resultados desejados.O gerenciamento de processos de negócio (BPM - Business Process Management) é
 uma disciplina que visa otimizar, monitorar e melhorar continuamente esses processos.
 
-
+..................................................................................................................................
 
 
 
@@ -53,6 +53,8 @@ Não há como se relacionar sem compartilhar algum tipo de dado, e isso muito an
 Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas,
 normalmente armazenadas eletronicamente em um sistema de computador.
 Um banco de dados é geralmente controlado por um sistema de gerenciamento de banco de dados (DBMS).
+
+.........................................................................................................................................
 
 
 2) Comentários:
@@ -82,6 +84,7 @@ C++: C++ é uma linguagem de programação de propósito geral que suporta progr
 Ele é uma extensão da linguagem C.C++ é conhecido por seu desempenho eficiente, permitindo um controle mais direto sobre os recursos do sistema.
 É frequentemente escolhido para desenvolvimento de sistemas e aplicativos de alto desempenho.
 
+...................................................................................................................................................
 
 
 public class OlaMundo {
@@ -112,6 +115,14 @@ cóigo em C++
 comentários: códigos e linguagens de programação são a espinha dorsal da computação,
 fornecendo as ferramentas necessárias para traduzir conceitos em soluções funcionais e inovadoras. 
 A escolha da linguagem certa e a adoção de boas práticas de programação são cruciais para o sucesso de projetos de software.
+
+...............................................................................................................................
+
+
+limite = 100
+    for c in range(0, limite+1):
+        if c % 2 == 0:
+            print(c)
 
 
 
